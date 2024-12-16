@@ -120,3 +120,33 @@ Just like with images and masks augmentation, the process of augmenting bounding
 (4)You pass an image and bounding boxes to the augmentation pipeline and receive augmented images and boxes.
 
 
+# Uses of face detection
+As already noted, face detection is a fundamental component of face recognition, which goes beyond simply finding and locating faces. Facial recognition generates faceprints that are compared to a faceprint database in hopes of determining who they are. However, face detection can also be used in a variety of other ways.
+
+## Entertainment
+Face detection is used in movies, video games and virtual reality. For example, facial motion capture works in conjunction with face detection to electronically convert a human's facial movements into a digital database through the use of cameras and laser scanners. The database can then be used to produce realistic computer animation for movies, games or avatars.
+
+## Mobile devices
+Smartphones and tablets often use face detection for their cameras' autofocus features when taking pictures and recording videos. Many mobile devices also use face detection in place of passcodes or passwords. For instance, an Apple iPhone can use face detection to unlock a phone for an approved user
+
+![searchmobilecomputing_biometrics](https://github.com/user-attachments/assets/cabb7b0e-2cb7-47ad-b974-349416484dcf)
+
+## Security
+Face detection is used in closed-circuit television security cameras to detect people who enter restricted spaces or to count how many people have entered an area. Face detection might also be used to draw language inferences from visual cues by performing a type of lip reading. Furthermore, it can help computers determine who is speaking and what they're saying, which can aid security applications. Face detection can also be used to determine which parts of an image to blur to ensure privacy.
+
+## Marketing
+Face detection also has marketing applications. For example, it can be used to display specific advertisements when a particular face is recognized or to detect emotions when customers react to products or services.
+
+## Emotional inference
+Another application for face detection is as part of a software implementation of emotional inference, which can help people with autism understand the feelings of people around them. The program reads the emotions on a human face using advanced image processing.
+
+## Biometric identification
+Similar to how face detection is used with smartphones, it can be used in e-commerce and online banking to verify identities based on facial features. It can also be used to control access to physical facilities.
+
+## Social media
+Social media apps use face detection to determine the identities of people in photos and to suggest how to tag them. Social media was one of the first mainstream uses of face detection.
+
+## Healthcare
+Face recognition can facilitate patient check-ins and checkouts, maintain security, grant access control to restricted areas and evaluate a patient's emotional state. There is also a growing interest in using face detection to diagnose rare diseases.
+
+
